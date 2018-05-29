@@ -1,0 +1,77 @@
+html,
+        body,
+        .view {
+            height: 100%;
+        }
+        /* Navigation*/
+        
+        .navbar {
+            background-color: transparent;
+        }
+        
+        .scrolling-navbar {
+            -webkit-transition: background .5s ease-in-out, padding .5s ease-in-out;
+            -moz-transition: background .5s ease-in-out, padding .5s ease-in-out;
+            transition: background .5s ease-in-out, padding .5s ease-in-out;
+        }
+        
+        .top-nav-collapse {
+            background-color: #1C2331;
+        }
+        
+        footer.page-footer {
+            background-color: #1C2331;
+            margin-top: -1px;
+        }
+        
+        @media only screen and (max-width: 200px) {
+            .navbar {
+                background-color: #1C2331;
+            }
+           
+        }
+
+        @media only screen and (max-width: 768px) {
+            .display-3 {
+                font-size: 3rem;
+                margin-top: 4rem;
+            }
+            h3 {
+                font-size: 1.3rem;
+            }
+        }
+
+        .navbar .btn-group .dropdown-menu a:hover {
+            color: #000 !important;
+        }
+        .navbar .btn-group .dropdown-menu a:active {
+            color: #fff !important;
+        }
+        /*Call to action*/
+        
+        .flex-center {
+            color: #fff;
+        }
+        
+        .view {
+            background: url("../img/background.jpg")no-repeat center center fixed;
+            -webkit-background-size: cover;
+            -moz-background-size: cover;
+            -o-background-size: cover;
+            background-size: cover;
+        }
+       
+
+        .parallax {
+    /* The image used */
+    background-image: url("../img/background_parallax.jpg");
+
+    /* Set a specific height */
+    min-height: 15rem; 
+
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}

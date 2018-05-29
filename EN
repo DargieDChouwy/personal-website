@@ -1,0 +1,608 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+
+    <title>Marie Chiaverini</title>
+
+    <!-- Font Awesome -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+
+    <!-- Bootstrap core CSS -->
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- Material Design Bootstrap -->
+    <link href="css/mdb.min.css" rel="stylesheet">
+
+    <!-- portfolio styles -->
+    <link href="css/portfolio.css" rel="stylesheet">
+   
+</head>
+
+<body>
+
+    <!--Navbar-->
+         <nav class="navbar navbar-expand-lg navbar-dark fixed-top scrolling-navbar">
+                <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                	<a class="navbar-brand" data-toggle="collapse" data-target=".navbar-collapse.show" href="#intro"> Marie Chiaverini</a>
+                    <ul class="navbar-nav mr-auto">
+                        <li class="nav-item">
+                            <a class="nav-link" data-toggle="collapse" data-target=".navbar-collapse.show" href="#me"><i class="fa fa-user  mr-3"></i>About</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" data-toggle="collapse" data-target=".navbar-collapse.show" href="#skills"><i class="fa fa-code mr-3"></i>Skills</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" data-toggle="collapse" data-target=".navbar-collapse.show" href="#events"><i class="fa fa-gamepad mr-3"></i>Events</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" data-toggle="collapse" data-target=".navbar-collapse.show" href="#projects"><i class="fa fa-desktop mr-3"></i>Portfolio</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link " data-toggle="collapse" data-target=".navbar-collapse.show" href="#contact"><i class="fa fa-send-o  mr-3"></i>Contact</a>
+                        </li>
+                    </ul>
+                    <span>
+                            <a class="nav-link white-text" href="FR"><i class="fa fa-globe mr-3"></i>EN</a>
+                    </span>
+                </div>
+        </nav>
+    <!--/.Navbar-->
+ <!-- Here is a comment -->
+    <!--Intro-->
+    <div id="intro" class="view hm-black-strong">
+        <div class="container-fluid full-bg-img flex-center">
+            <ul class="animated fadeInUp">
+                <li>
+                    <h1 class="display-3 mb-4 font-bold">Marie Chiaverini</h1></li>
+                <li>
+                	<hr class="hr-light">
+                    <h3 class="mb-5"> < I'm a junior developer /></h3>
+                </li>
+                <li>
+                    <a target="_blank" href="img/resume_chiaverini_marie.pdf" class="btn btn-outline-white btn-lg" rel="nofollow">Resume</a>
+                    <a href="#projects" class="btn btn-outline-white btn-lg" rel="nofollow">Portfolio</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+    <!--/.Intro-->
+
+<div id="me"></div>
+<main class="mt-5">
+    <div class="container">
+
+        <!--Section: Presentation-->
+<section id="best-features" class="text-center">
+	<h2 class="mb-4">Who am I ?</h2>
+
+	<div class="row d-flex justify-content-center mb-5">
+
+		<div class="col-md-8 mb-3">
+			<img src="img/moi.jpg" class="img-fluid z-depth-1 rounded-circle mb-4 size" alt="Responsive image">
+			<p>I am a third IT engineering student at Exia.Cesi, I aim to work in Internet of Things (IoT) field. I am also passionated by web development, virtual reality and video game. Born deaf, I developed some competences of adaptations and a strong commitment to realize my project.</p>
+		</div>
+
+	</div>
+
+	<div class="row">
+
+		<div class="col-md-4 mb-5">
+			<i class="fa fa-cogs fa-4x cyan-text"></i>
+			<h4 class="my-4">My qualities</h4>
+			<p>I always accept constructive criticism, my colleagues appreciate to work with me. I am committed into every project, I am always ready to learn and to ask questions does not frighten me.</p>
+
+		</div>
+
+		<div class="col-md-4 mb-1">
+			<i class="fa fa-rocket fa-4x cyan-text"></i>
+			<h4 class="my-4">My challenges</h4>
+			<p>I put a bit of challenge in my realizations in order to perfect my skills and always learn new things. Supporter of : "I know that I know nothing". Socrate</p>
+
+		</div>
+
+		<div class="col-md-4 mb-1">
+			<i class="fa fa-heart fa-4x cyan-text"></i>
+			<h4 class="my-4">My passions</h4>
+			<p>Passionate by technical innovation, I fond of playing video game, realizing all kind of development projects and longboarding. </p>
+
+		</div>
+
+	</div>
+<!--Section: /Presentation-->
+</section>
+			<hr class="my-5">
+<!--Section: counter-->
+<section id="counter" class="text-center">
+	<h2 class="mb-4">For now</h2>
+
+	<div class="row d-flex justify-content-center mb-4">
+	  	
+	   
+	    <div class="col-md-4 mb-5">
+	        <h4>Almost</h4>
+	       <h1 class="counter cyan-text">3</h1>
+	        <h4>years of experiences ;)</h4>
+	    </div>   
+
+	      <div class="col-md-4 mb-5">
+	      	<h4>Over</h4>
+	    	<h1 class="counter cyan-text">100</h1>
+	       	<h4>km longboarding</h4>
+	      </div>
+
+
+	   <div class="col-md-4 mb-5">
+	     <h4>More</h4>
+	  	 <h1 class="counter cyan-text">21</h1>
+	   	 <h4>projects</h4>
+		   </div> 
+
+	</div>
+<!--Section: /counter-->    
+</section>
+<!--div: /container-->
+    </div>
+
+		<!--Section: PARALLAX-->
+	<div id="skills" class="parallax view hm-black-strong mb-5">
+        <div class="container-fluid full-bg-img flex-center">
+        	<h3 class=" flex-center">« They didn't know it was impossible so they did it », Mark Twain</h3>
+        </div>
+    </div>
+        <!-- END PARALLAX -->
+<!--div: container--> 
+ <div class="container">
+<!--Section: skills-->
+<section  class="text-center">
+    <article>
+
+		<h1 class="mb-4">Skills</h1>
+		<div class="d-flex justify-content-center mb-4">
+			<div class="col-md-8">
+				<h3>Development</h3>
+			</div>
+		</div>
+
+			<div class="row">
+
+				<div class="col-md-3 mb-4">
+					<div class="card" style="width: 10rem;">
+					  <img class="card-img-top" src="img/js.png" alt="Card image cap">
+					  <div class="card-body">
+					    <p class="card-text">Javascript</p>
+					  </div>
+					</div>
+				</div>
+
+				<div class="col-md-3 mb-4">
+					<div class="card" style="width: 10rem;">
+					  <img class="card-img-top" src="img/php-logo.png" alt="Card image cap">
+					  <div class="card-body">
+					    <p class="card-text">PHP</p>
+					  </div>
+					</div>
+				</div>
+
+				<div class="col-md-3 mb-4">
+					<div class="card" style="width: 10rem;">
+					  <img class="card-img-top" src="img/sql-logo.png" alt="Card image cap">
+					  <div class="card-body">
+					    <p class="card-text">SQL</p>
+					  </div>
+					</div>
+				</div>
+
+				<div class="col-md-3 mb-4">
+					<div class="card" style="width: 10rem;">
+					  <img class="card-img-top" src="img/react.png" alt="Card image cap">
+					  <div class="card-body">
+					    <p class="card-text">React</p>
+					  </div>
+					</div>
+				</div>
+
+				<div class="col-md-3 mb-4">
+					<div class="card" style="width: 10rem;">
+					  <img class="card-img-top" src="img/html5-logo.png" alt="Card image cap">
+					  <div class="card-body">
+					    <p class="card-text">HTML5</p>
+					  </div>
+					</div>
+				</div>
+
+				<div class="col-md-3 mb-4">
+					<div class="card" style="width: 10rem;">
+					  <img class="card-img-top" src="img/css3-logo.png" alt="Card image cap">
+					  <div class="card-body">
+					    <p class="card-text">Css</p>
+					  </div>
+					</div>
+				</div>
+	    		
+			</div>
+	</article>	
+
+	<article>
+    	<div class=" d-flex justify-content-center mb-4">
+    		<div class="col-md-8">
+    			<h3>Server</h3>
+    		</div>
+    	</div>	
+
+    	<div class="row">
+
+			<div class="col-md-3 mb-4">
+				<div class="card" style="width: 10rem;">
+				  <img class="card-img-top" src="img/node-logo.png" alt="Card image cap">
+				  <div class="card-body">
+				    <p class="card-text">Node.js</p>
+				  </div>
+				</div>
+			</div>
+
+			<div class="col-md-3 mb-4">
+				<div class="card" style="width: 10rem;">
+				  <img class="card-img-top" src="img/expressjs.png" alt="Card image cap">
+				  <div class="card-body">
+				    <p class="card-text">Express.js</p>
+				  </div>
+				</div>
+			</div>
+
+			<div class="col-md-3 mb-4">
+				<div class="card" style="width: 10rem;">
+				  <img class="card-img-top" src="img/mysql.svg" alt="Card image cap">
+				  <div class="card-body">
+				    <p class="card-text">MySQL</p>
+				  </div>
+				</div>
+			</div>
+
+		</div>		
+	</article>	
+
+	<article>
+    	<div class="d-flex justify-content-center mb-4 text-center">
+    		<div class="col-md-8">
+    			<h3>Tools</h3>
+    		</div>
+    	</div>
+
+    	<div class="row">
+
+			<div class="col-md-3 mb-4">
+				<div class="card" style="width: 10rem;">
+				  <img class="card-img-top" src="img/intellij-logo.png" alt="Card image cap">
+				  <div class="card-body">
+				    <p class="card-text">Intellij</p>
+				  </div>
+				</div>
+			</div>
+
+			<div class="col-md-3 mb-4">
+				<div class="card" style="width: 10rem;">
+				  <img class="card-img-top" src="img/sublime-logo.png" alt="Card image cap">
+				  <div class="card-body">
+				    <p class="card-text">Sublime Text</p>
+				  </div>
+				</div>
+			</div>
+
+			<div class="col-md-3 mb-4">
+				<div class="card" style="width: 10rem;">
+				  <img class="card-img-top" src="img/github.png" alt="Card image cap">
+				  <div class="card-body">
+				    <p class="card-text">Github</p>
+				  </div>
+				</div>
+			</div>
+
+			<div class="col-md-3 mb-4">
+				<div class="card" style="width: 10rem;">
+				  <img class="card-img-top" src="img/svn.png" alt="Card image cap">
+				  <div class="card-body">
+				    <p class="card-text">Tortoise SVN</p>
+				  </div>
+				</div>
+			</div>
+
+		</div>
+		        		
+	</article>	
+
+	<article>
+    	<div class="d-flex justify-content-center mb-4 text-center">
+    		<div class="col-md-8">
+    			<h3>3D</h3>
+    		</div>
+    	</div>	
+
+    	<div class="row">
+
+				<div class="col-md-3 mb-4">
+					<div class="card" style="width: 10rem;">
+					  <img class="card-img-top" src="img/UE.jpg" alt="Card image cap">
+					  <div class="card-body">
+					    <p class="card-text">Unreal Engine</p>
+					  </div>
+					</div>
+				</div>
+
+		</div>		
+	</article>	
+</section>
+<!--/Section: skills-->
+<hr  id="events" class="my-5">
+<!-- section: events-->
+<section class="text-center">        
+	<h1 class="mb-4">Events</h1>
+	<br>
+	<div class="row d-flex justify-content-center">
+		
+
+		<div class="col-md-2 mb-1">
+			<img class="rounded-circle hoverable" src="img/coddity.png" alt="img" data-toggle="collapse" data-target="#coddity" aria-expanded="false" aria-controls="coddity" title="Concours coddity" style="width: 4rem; height: 4rem;">
+			<div class="collapse" id="coddity">
+			  <div class="card card-body">
+			    <p>
+			    Coddity company organized a contest for a grant. It involved to develop in autonomy over 2 months a web application on a specifical subject and realize a review about the "smart contracts" .
+				</p>
+			  </div>
+			</div>
+		</div>
+
+		<div class="col-md-2 mb-1">
+			<img class="rounded-circle hoverable" src="img/gamejam.png" alt="img" data-toggle="collapse" data-target="#gamejam" aria-expanded="false" aria-controls="gamejam" title="Game Jam" style="width: 4rem; height: 4rem;">
+			<div class="collapse" id="gamejam">
+			  <div class="card card-body">
+			   <p>
+			   	Exia.Cesi school organized a Game Jam. In 3 days, we realized a platformer game with my team. We used <a target="_blank" href="https://www.yoyogames.com/gamemaker">GameMaker Studio 2</a>
+				</p>
+			  </div>
+			</div>
+		</div>
+
+		<div class="col-md-2 mb-1">
+			<img class="rounded-circle hoverable" src="img/cesistudio.png" alt="img" data-toggle="collapse" data-target="#cesistudio" aria-expanded="false" aria-controls="cesistudio" title="Association scolaire" style="width: 4rem; height: 4rem;">
+			<div class="collapse" id="cesistudio">
+			  <div class="card card-body">
+			    <p>
+			    Co-founder of the association Cesi studio. The objective is to realize some videos about the events in the school. We have a <a target="_blank" href="https://www.facebook.com/CESI-Studio-228488910898551/">Facebook</a> page
+				</p>
+			  </div>
+			</div>
+		</div>
+
+		<div class="col-md-2 mb-1">
+			<img class="rounded-circle hoverable" src="img/codingame.png" alt="img" data-toggle="collapse" data-target="#codingame" aria-expanded="false" aria-controls="codingame" title="Jeu en ligne sur la programmation" style="width: 4rem; height: 4rem;">
+			<div class="collapse" id="codingame">
+			  <div class="card card-body">
+			    <p>
+			    Learn to play, it's codingame concept. I find other developeur friends with a clash of code and we shares ours results. Atmosphere guaranteed ! Check my  <a target="_blank" href="https://www.codingame.com/profile/6630a628d93ff1408b63a53be0a6ef969429152"> profil there</a>
+				</p>
+			  </div>
+			</div>
+		</div>
+
+		<div class="col-md-2 mb-1">
+			<img class="rounded-circle hoverable" src="img/skyforge.png" alt="img" data-toggle="collapse" data-target="#skyforge" aria-expanded="false" aria-controls="skyforge" title="Concours skyforge" style="width: 4rem; height: 4rem;">
+			<div class="collapse" id="skyforge">
+			  <div class="card card-body">
+			    <p>
+			    	International community contest <a target="_blank" href="https://sf.my.com/us/news/events/skyforge-community-guide-contest">"Player guide"</a> on Skyforge game. Realisation of a guide to help beginners starting the game. You can find the result of this contest <a target="_blank" href="https://sf.my.com/fr/news/events/les-gagnants-du-concours-suivez-le-guide">there</a> and here for my french guide : <a target="_blank" href="https://eu.portal.sf.my.com/comments/55b691afac727dc0fb82d2fd?page=1">"l'art du combat !"</a> 
+				</p>
+			  </div>
+			</div>
+		</div>
+	</div>
+</section>
+<!-- /section events-->
+<hr  id="projects" class="my-5">
+ <!--Section: projects-->
+<section class="text-center">
+	<h2 class="mb-5">Portfolio</h2>
+	<div class="row d-flex justify-content-center mb-4">
+<!-- hover portfolio-->
+        <div class="col-lg-4 col-md-6 mb-4">
+        	<div class="view overlay">
+			    <img src="img/gameTown.png" class="img-fluid " alt="searchgame">
+			    <div class="mask flex-center rgba-cyan-strong" data-toggle="modal" data-target="#Searchgame">
+		        	<h4>More informations</h4>
+		    	</div>
+			</div>
+        </div>
+
+         <div class="col-lg-4 col-md-6 mb-4">
+        	<div class="view overlay">
+			    <img src="img/coddity_modal.png" class="img-fluid " alt="coddity">
+			    <div class="mask flex-center rgba-cyan-strong" data-toggle="modal" data-target="#Coddity">
+		        	<h4>More informations</h4>
+		    	</div>
+			</div>
+        </div>
+<!-- /hover portfolio-->
+	</div>
+
+<!-- Modal searchgame-->
+	<div class="modal fade" id="Searchgame" tabindex="-1" role="dialog" aria-labelledby="searchgame" aria-hidden="true">
+	    <div class="modal-dialog" role="document">
+	        <div class="modal-content">
+	            <div class="modal-header">
+	                <h5 class="modal-title" id="searchgame">Game Town <a target="_blank" href="https://github.com/DargieDChouwy/Search-games"><i class="fa fa-github mr-3"></i></a></h5>
+	                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+	                    <span aria-hidden="true">&times;</span>
+	                </button>
+	            </div>
+	            <div class="modal-body">
+	              <img src="img/gameTown.png" class="img-fluid " alt="gametown">
+	               <p>A web site named "game Town" which allow to find informations about a game. My goal was to undestand and have a better usage abotu API REST.</p>
+	              <img src="img/pug-logo.svg" class="w-25 p-2" alt="pug" data-toggle="tooltip" data-placement="bottom" title="PUG">
+	              <img src="img/expressjs.png" class="w-25 p-2" alt="expressjs" data-toggle="tooltip" data-placement="bottom" title="Expressjs">
+	              <img src="img/node-logo.png" class="w-25 p-2" alt="nodejs" data-toggle="tooltip" data-placement="bottom" title="Node.js">
+	              <img src="img/sublime-logo.png" class="w-25 p-2" alt="sublimetext" data-toggle="tooltip" data-placement="bottom" title="Sublime Text">
+	            </div>
+	            <div class="modal-footer">
+	                <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+	            </div>
+	        </div>
+	    </div>
+	</div>
+<!-- /Modal searchgame--> 
+
+<!-- Modal coddity-->
+	<div class="modal fade" id="Coddity" tabindex="-1" role="dialog" aria-labelledby="coddity" aria-hidden="true">
+	    <div class="modal-dialog" role="document">
+	        <div class="modal-content">
+	            <div class="modal-header">
+	                <h5 class="modal-title" id="coddity">Coddity <a target="_blank" href="https://github.com/DargieDChouwy/Coddity"><i class="fa fa-github mr-3"></i></a></h5>
+	                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+	                    <span aria-hidden="true">&times;</span>
+	                </button>
+	            </div>
+	            <div class="modal-body">
+	               <img src="img/coddity_modal.png" class="img-fluid " alt="coddity">
+	               <p>A contest organized by Coddity compagny. The goal was to realize a social network to help students to seek an internship, or summer work or a school.</p>
+	               <img src="img/react.png" class="w-25 p-2" alt="reactjs" data-toggle="tooltip" data-placement="bottom" title="React.js">
+	              <img src="img/node-logo.png" class="w-25 p-2" alt="nodejs" data-toggle="tooltip" data-placement="bottom" title="Node.js">
+	              <img src="img/vulcanJS.png" class="w-25 p-2 " alt="vulcanjs" data-toggle="tooltip" data-placement="bottom" title="VulcanJS">
+	            </div>
+	            <div class="modal-footer">
+	                <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+	            </div>
+	        </div>
+	    </div>
+	</div>
+<!-- /Modal coddity--> 
+
+</section>
+<!--Section/projects-->        
+<hr id="contact" class="my-5">
+<!--Section: Contact-->              
+<section>
+    <h2 class="text-center">Contact me</h2>
+    <p class="text-center">Don't hesitate to send me a message ! </p>
+
+    <div class="row d-flex justify-content-center mb-4">
+        
+	    <div class="col-md-8 col-xl-9">
+	        <form id="contact-form" name="contact-form" action="mail.php" method="POST">
+            <div class="row">
+                <div class="col-md-6">
+                    <div class="md-form">
+                        <input type="text" id="name" name="name" class="form-control">
+                        <label for="name" class="">Name</label>
+                    </div>
+                </div>
+                <div class="col-md-6">
+                    <div class="md-form">
+                        <input type="text" id="email" name="email" class="form-control">
+                        <label for="email" class="">Email</label>
+                    </div>
+                </div>
+            </div>
+
+            <div class="row">
+                <div class="col-md-12">
+                    <div class="md-form">
+                        <input type="text" id="subject" name="subject" class="form-control">
+                        <label for="subject" class="">Subject</label>
+                    </div>
+                </div>
+            </div>
+
+            <div class="row">
+                <div class="col-md-12">
+                    <div class="md-form">
+                        <textarea type="text" id="message" name="message" rows="2" class="form-control md-textarea"></textarea>
+                        <label for="message">Message</label>
+                    </div>
+                </div>
+			</div>
+	        </form>
+
+	        <div class="d-flex justify-content-center mb-4">
+	              <a class="btn btn-primary" onclick="validateForm()">Send</a>
+	        </div>
+	        <div class="status d-flex justify-content-center" id="status"></div>
+	    </div>
+        
+    </div>
+<!--Section: /Contact-->
+</section>
+<!--div: /container-->
+ </div>
+</main>      
+    <!--Footer-->
+<footer class="page-footer center-on-small-only unique-color-dark">
+
+    <div class="container">
+        <div class="row d-flex justify-content-center mt-3">
+
+            <hr class="w-100 clearfix d-sm-none">
+            
+            <div class="col-md-4 col-lg-3 col-xl-3">
+                <p class="title"><strong>Useful links</strong></p>
+                <hr class="orange mb-4 mt-0 d-inline-block mx-auto" style="width: 60px;">
+                <p><a target="_blank" href="https://www.linkedin.com/in/marie-chiaverini-82483912a/?locale=en_US"><i class="fa fa-linkedin mr-3"></i>Linkedin</p></a>
+	            <p><a target="_blank" href="https://github.com/DargieDChouwy"><i class="fa fa-github mr-3"></i>Github</p></a>
+	            <p><a target="_blank" href="img/resume_chiaverini_marie.pdf"><i class="fa fa-file-image-o mr-3"></i>Resume</p></a>
+	            <p><a href="#projects"><i class="fa fa-external-link mr-3"></i>Portfolio</p></a>
+        	</div>
+
+            <hr class="w-100 clearfix d-sm-none">
+       
+             <div class="col-md-4 col-lg-3 col-xl-3">
+                <p class="title"><strong>Contact</strong></p>
+                <hr class="orange mb-4 mt-0 d-inline-block mx-auto" style="width: 60px;">
+                <p><i class="fa fa-home mr-3"></i>France, Lyon</p>
+	            <p><i class="fa fa-envelope mr-3"></i>marie.chiaverini@viacesi.fr</p>
+	            <p><i class="fa fa-phone mr-3"></i>+ (33) 07 83 82 44 97</p>
+        	</div>
+   		 </div>
+   	</div>
+
+    <!--Copyright-->
+    <div class="footer-copyright">
+        <div class="container-fluid">
+            <p class="love">Made with <i class="fa fa-heart" aria-hidden="true"></i> in France</p>
+        </div>
+    </div>
+    <!--/Copyright-->
+
+</footer>
+<!--/Footer-->
+    <!-- SCRIPTS -->
+
+    <!-- JQuery -->
+
+    <script src="js/jquery-3.2.1.min.js"></script>
+
+    <!-- Bootstrap bundle -->
+    <script type="text/javascript" src="js/bootstrap.bundle.min.js"></script>
+
+    <!-- MDB core JavaScript -->
+    <script type="text/javascript" src="js/mdb.min.js"></script>
+
+	<!-- MAIL -->
+  	<script type="text/javascript" src="js/mail.js"></script>
+
+    <!-- COUNTER -->
+    <script type="text/javascript" src="js/counter.js"></script>
+
+	<!-- Scrollsmooths -->
+    <script type="text/javascript" src="js/scrollsmooth.js"></script>
+
+	<!-- Tooltips -->
+	<script type="text/javascript" src="js/tooltip.js"></script>
+  	<!-- /SCRIPTS -->
+</body>    
+    
+</html>
