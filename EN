@@ -442,7 +442,7 @@
 	                </button>
 	            </div>
 	            <div class="modal-body">
-	              <img src="img/gameTown.png" class="img-fluid " alt="gametown">
+	              <a target="_blank" href="https://jeu-kgmvkerauq.now.sh/""><img src="img/gameTown.png" class="img-fluid " alt="gametown"></a>
 	               <p>A web site named "game Town" which allow to find informations about a game. My goal was to undestand and have a better usage abotu API REST.</p>
 	              <img src="img/pug-logo.svg" class="w-25 p-2" alt="pug" data-toggle="tooltip" data-placement="bottom" title="PUG">
 	              <img src="img/expressjs.png" class="w-25 p-2" alt="expressjs" data-toggle="tooltip" data-placement="bottom" title="Expressjs">
