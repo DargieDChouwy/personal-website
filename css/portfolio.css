@@ -75,3 +75,7 @@ html,
     background-repeat: no-repeat;
     background-size: cover;
 }
+
+.card{
+	margin: 0 auto;
+}

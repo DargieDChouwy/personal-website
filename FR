@@ -170,7 +170,7 @@
 
 			<div class="row">
 
-				<div class="col-md-3 mb-4">
+				<div class="col mb-4">
 					<div class="card" style="width: 10rem;">
 					  <img class="card-img-top" src="img/js.png" alt="Card image cap">
 					  <div class="card-body">
@@ -179,7 +179,7 @@
 					</div>
 				</div>
 
-				<div class="col-md-3 mb-4">
+				<div class="col mb-4">
 					<div class="card" style="width: 10rem;">
 					  <img class="card-img-top" src="img/php-logo.png" alt="Card image cap">
 					  <div class="card-body">
@@ -188,7 +188,7 @@
 					</div>
 				</div>
 
-				<div class="col-md-3 mb-4">
+				<div class="col mb-4">
 					<div class="card" style="width: 10rem;">
 					  <img class="card-img-top" src="img/sql-logo.png" alt="Card image cap">
 					  <div class="card-body">
@@ -197,7 +197,7 @@
 					</div>
 				</div>
 
-				<div class="col-md-3 mb-4">
+				<div class="col mb-4">
 					<div class="card" style="width: 10rem;">
 					  <img class="card-img-top" src="img/react.png" alt="Card image cap">
 					  <div class="card-body">
@@ -206,7 +206,7 @@
 					</div>
 				</div>
 
-				<div class="col-md-3 mb-4">
+				<div class="col mb-4">
 					<div class="card" style="width: 10rem;">
 					  <img class="card-img-top" src="img/html5-logo.png" alt="Card image cap">
 					  <div class="card-body">
@@ -215,7 +215,7 @@
 					</div>
 				</div>
 
-				<div class="col-md-3 mb-4">
+				<div class="col mb-4">
 					<div class="card" style="width: 10rem;">
 					  <img class="card-img-top" src="img/css3-logo.png" alt="Card image cap">
 					  <div class="card-body">
@@ -225,18 +225,16 @@
 				</div>
 
 	    	</div>
-	</article>	
 
-	<article>
     	<div class=" d-flex justify-content-center mb-4">
     		<div class="col-md-8">
     			<h3>Serveur</h3>
     		</div>
     	</div>	
 
-    	<div class="row">
+    	<div class="row d-flex justify-content-center">
 
-			<div class="col-md-3 mb-4">
+			<div class="col mb-4">
 				<div class="card" style="width: 10rem;">
 				  <img class="card-img-top" src="img/node-logo.png" alt="Card image cap">
 				  <div class="card-body">
@@ -245,7 +243,7 @@
 				</div>
 			</div>
 
-			<div class="col-md-3 mb-4">
+			<div class="col mb-4">
 				<div class="card" style="width: 10rem;">
 				  <img class="card-img-top" src="img/expressjs.png" alt="Card image cap">
 				  <div class="card-body">
@@ -254,7 +252,7 @@
 				</div>
 			</div>
 
-			<div class="col-md-3 mb-4">
+			<div class="col mb-4">
 				<div class="card" style="width: 10rem;">
 				  <img class="card-img-top" src="img/mysql.svg" alt="Card image cap">
 				  <div class="card-body">
@@ -264,18 +262,16 @@
 			</div>
 
 		</div>		
-	</article>	
 
-	<article>
     	<div class="d-flex justify-content-center mb-4 text-center">
     		<div class="col-md-8">
     			<h3>Outils</h3>
     		</div>
     	</div>
 
-    	<div class="row">
+    	<div class="row d-flex justify-content-center">
 
-			<div class="col-md-3 mb-4">
+			<div class="col mb-4">
 				<div class="card" style="width: 10rem;">
 				  <img class="card-img-top" src="img/intellij-logo.png" alt="Card image cap">
 				  <div class="card-body">
@@ -284,7 +280,7 @@
 				</div>
 			</div>
 
-			<div class="col-md-3 mb-4">
+			<div class="col mb-4">
 				<div class="card" style="width: 10rem;">
 				  <img class="card-img-top" src="img/sublime-logo.png" alt="Card image cap">
 				  <div class="card-body">
@@ -293,7 +289,7 @@
 				</div>
 			</div>
 
-			<div class="col-md-3 mb-4">
+			<div class="col mb-4">
 				<div class="card" style="width: 10rem;">
 				  <img class="card-img-top" src="img/github.png" alt="Card image cap">
 				  <div class="card-body">
@@ -302,7 +298,7 @@
 				</div>
 			</div>
 
-			<div class="col-md-3 mb-4">
+			<div class="col mb-4">
 				<div class="card" style="width: 10rem;">
 				  <img class="card-img-top" src="img/svn.png" alt="Card image cap">
 				  <div class="card-body">
@@ -312,19 +308,16 @@
 			</div>
 
 		</div>
-		        		
-	</article>	
-
-	<article>
+		        	
     	<div class="d-flex justify-content-center mb-4">
     		<div class="col-md-8">
     			<h3>3D</h3>
     		</div>
     	</div>	
 
-    	<div class="row">
+    	<div class="row d-flex justify-content-center">
 
-				<div class="col-md-3 mb-4">
+				<div class="col mb-4">
 					<div class="card" style="width: 10rem;">
 					  <img class="card-img-top" src="img/UE.jpg" alt="Card image cap">
 					  <div class="card-body">
@@ -334,7 +327,6 @@
 				</div>
 
 		</div>		
-	</article>	
 </section>
 <!--/Section competences-->
 <hr  id="evenements" class="my-5">
