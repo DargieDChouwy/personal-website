@@ -167,7 +167,7 @@
 		<h1 class="mb-4">Skills</h1>
 		<div class="d-flex justify-content-center mb-4">
 			<div class="col-md-8">
-				<h3>Development</h3>
+				<h4><strong>Development</strong></h4>
 			</div>
 		</div>
 
@@ -231,7 +231,7 @@
 
     	<div class=" d-flex justify-content-center mb-4">
     		<div class="col-md-8">
-    			<h3>Server</h3>
+    			<h4><strong>Server</strong></h4>
     		</div>
     	</div>	
 
@@ -268,7 +268,7 @@
 
     	<div class="d-flex justify-content-center mb-4 text-center">
     		<div class="col-md-8">
-    			<h3>Tools</h3>
+    			<h4><strong>Tools</strong></h4>
     		</div>
     	</div>
 
@@ -314,7 +314,7 @@
 		        	
     	<div class="d-flex justify-content-center mb-4">
     		<div class="col-md-8">
-    			<h3>3D</h3>
+    			<h4><strong>3D</strong></h4>
     		</div>
     	</div>	
 
